@@ -105,4 +105,6 @@ SQL_Advanced_Data_Analytics/
 
 Each file contains comments explaining the logic of the queries.
 
+Source Credit - Data with Baraa YT channel.
+
 
